@@ -2,8 +2,10 @@
 
 int main()
 {
-    // Déclaration et affectation des variables
-    // Les noms de variables sont appelés identifiants
+
+    /* Déclaration et affectation des variables
+    Les noms de variables sont appelés identifiants */
+
     int num = 10;
     float floatingPoint = 3.14f;
     char character = 'A';
